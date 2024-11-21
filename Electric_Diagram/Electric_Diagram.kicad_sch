@@ -1,0 +1,280 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "dd6cbc10-4d68-4c45-b8a2-b3317dca5e2f")
+	(paper "A5")
+	(title_block
+		(title "Okoma")
+		(date "08/2024")
+		(rev "1.0")
+	)
+	(lib_symbols)
+	(text "Управляющее\nнапряжение"
+		(exclude_from_sim no)
+		(at 165.1 45.212 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "011727d5-d783-48ab-99de-ed8e18b443d6")
+	)
+	(text "Питание\n24VDC"
+		(exclude_from_sim no)
+		(at 45.974 45.974 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "63246838-4b45-4a6d-8e02-5a0190910c4d")
+	)
+	(text "Привод\nкаретки"
+		(exclude_from_sim no)
+		(at 106.045 83.312 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "83d7359f-7c95-4e3b-ac05-90f4871baa79")
+	)
+	(sheet
+		(at 141.605 35.56)
+		(size 46.355 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "077450fb-1a3a-42d8-a60c-0a1d4fd5acdb")
+		(property "Sheetname" "Управляющее напряжение"
+			(at 141.605 34.2134 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Sheetfile" "conrolVoltage.kicad_sch"
+			(at 141.605 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Electric_Diagram"
+				(path "/dd6cbc10-4d68-4c45-b8a2-b3317dca5e2f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.97 72.39)
+		(size 46.99 20.32)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "122fadaa-44ce-4077-ac77-f87f68282684")
+		(property "Sheetname" "Пневматика"
+			(at 165.1 84.328 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Sheetfile" "pneumatic.kicad_sch"
+			(at 140.97 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Electric_Diagram"
+				(path "/dd6cbc10-4d68-4c45-b8a2-b3317dca5e2f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 83.185 72.39)
+		(size 46.99 20.32)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b555ed8b-74c6-4df2-a985-df93c31d4aa5")
+		(property "Sheetname" "Привод каретки"
+			(at 107.315 85.598 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Sheetfile" "carriage.kicad_sch"
+			(at 83.185 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Electric_Diagram"
+				(path "/dd6cbc10-4d68-4c45-b8a2-b3317dca5e2f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 35.56)
+		(size 46.99 20.32)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c81b486f-4d89-448b-ac09-34f74c0e7a20")
+		(property "Sheetname" "ПЛК"
+			(at 105.41 47.498 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Sheetfile" "plc.kicad_sch"
+			(at 81.28 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Electric_Diagram"
+				(path "/dd6cbc10-4d68-4c45-b8a2-b3317dca5e2f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 72.39)
+		(size 46.355 20.32)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e0112236-be79-4dc4-b115-2578c905fb9d")
+		(property "Sheetname" "Шпиндели"
+			(at 45.72 84.328 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Sheetfile" "spindles.kicad_sch"
+			(at 21.59 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Electric_Diagram"
+				(path "/dd6cbc10-4d68-4c45-b8a2-b3317dca5e2f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 35.56)
+		(size 46.355 20.32)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e0c2476e-7c79-4229-98db-62d1ae60a6a4")
+		(property "Sheetname" "Питание 24VDC"
+			(at 46.99 47.498 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Sheetfile" "power24vdc.kicad_sch"
+			(at 21.59 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Electric_Diagram"
+				(path "/dd6cbc10-4d68-4c45-b8a2-b3317dca5e2f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

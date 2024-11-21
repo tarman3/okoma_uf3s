@@ -1,0 +1,112 @@
+﻿C:\Program Files (x86)\HCFA\HCTDesigner 2.x\Bin\..\Macro\Compiler\batchscriptinvoker.exe "\"\"C:\Program Files (x86)\HCFA\HCTDesigner 2.x\Bin\..\Macro\Compiler\build_win32.cmd\"" "\"C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902\macro_8296c16df98446c18e565089b0cfc85d.c\"" "\"D:\OKOMA\Project_HMI_HCTDesigner2.5\bin\Macro\macro_8296c16df98446c18e565089b0cfc85d.dll\"" "\"C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902\"" "\"C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902\temp.o\"" "\"C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902\conout.txt\"\""
+In file included from C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902\macro_8296c16df98446c18e565089b0cfc85d.c:1:0:
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_ByteOrder':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:48:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:48:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_GetMem':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:79:3: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:79:3: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:91:4: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:91:4: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:105:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:105:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_SetMem':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:166:3: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:166:3: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:178:4: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:178:4: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:192:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:192:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_CallMacro':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:233:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:233:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_Delay':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:240:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:240:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_Outport':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:248:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:248:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_Inport':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:255:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:255:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_OpenSocket':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:263:1: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:263:1: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_AcceptSocket':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:276:1: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:276:1: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_SendSocket':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:283:1: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:283:1: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_RecvSocket':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:289:1: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:289:1: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_CloseSocket':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:295:1: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:295:1: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_SetComParam':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:302:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:302:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_Debug':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:311:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:311:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_SqlCmdEx':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:318:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:318:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_SqlSelectEx':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:326:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:326:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_SqlCmd':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:333:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:333:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_SqlSelect':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:341:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:341:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_SqlFree':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:349:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:349:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_Utf16Strlen':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:357:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:357:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_Utf8Str2Utf16Str':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:364:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:364:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_Utf16Str2Utf8Str':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:371:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:371:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_Utf16Str2GbStr':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:378:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:378:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_GbStr2Utf16Str':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:385:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:385:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_HmiColorBits':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:447:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:447:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_FRgb':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:456:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:456:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_CreateCanvas':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:487:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:487:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_FreeCanvas':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:494:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:494:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_DrawLines':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:501:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:501:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_DrawPolygon':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:508:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:508:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_LoadArcPt':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:515:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:515:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_RenderCanvas':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:542:2: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:542:2: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h: In function '_DrawPie':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:550:1: warning: passing argument 3 of 'macroOper' from incompatible pointer type
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902/macro_8296c16df98446c18e565089b0cfc85d.h:550:1: note: expected 'int ** (*)()' but argument is of type 'int *'
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902\macro_8296c16df98446c18e565089b0cfc85d.c: In function '_macro_main':
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902\macro_8296c16df98446c18e565089b0cfc85d.c:6:2: error: 'RP_calc' undeclared (first use in this function)
+C:\Users\root\AppData\Local\Temp\3237d8a5bfe745b0ae1a0847d18fe902\macro_8296c16df98446c18e565089b0cfc85d.c:6:2: note: each undeclared identifier is reported only once for each function it appears in

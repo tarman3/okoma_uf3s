@@ -1,0 +1,2974 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "012ca85a-82a8-45de-9ed7-e5980ecb343c")
+	(paper "A5")
+	(title_block
+		(title "Okoma")
+		(date "08/2024")
+		(rev "1.0")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 52.07 22.86) (xy 52.07 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1958ff1a-2cea-4015-ae88-65994fc0f1e1")
+	)
+	(wire
+		(pts
+			(xy 153.67 74.93) (xy 153.67 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ee07184-445e-49e0-9592-5d74319e6c92")
+	)
+	(wire
+		(pts
+			(xy 40.64 74.93) (xy 40.64 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27aeccf1-9151-45b6-af7d-9fe8f1d3743f")
+	)
+	(wire
+		(pts
+			(xy 55.88 74.93) (xy 55.88 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b9ae176-475c-4e02-ab66-03ef1e25fb8e")
+	)
+	(wire
+		(pts
+			(xy 191.77 77.47) (xy 191.77 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "400ddbf4-fdbe-481e-bc80-3001fa21ca7e")
+	)
+	(wire
+		(pts
+			(xy 25.4 22.86) (xy 25.4 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b14d5f5-a804-4827-8faf-bea2ad5dd8d6")
+	)
+	(wire
+		(pts
+			(xy 36.83 22.86) (xy 36.83 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60a21099-2a64-4745-a2e4-970c44b29884")
+	)
+	(wire
+		(pts
+			(xy 133.35 77.47) (xy 133.35 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72a3ad23-53ea-4955-b624-e231fb0fc365")
+	)
+	(wire
+		(pts
+			(xy 78.74 92.71) (xy 81.28 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79e6a44e-a97d-436f-a262-abd927977f19")
+	)
+	(wire
+		(pts
+			(xy 149.86 74.93) (xy 149.86 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87bdfd2f-8565-483f-832d-22341f202d2b")
+	)
+	(wire
+		(pts
+			(xy 78.74 96.52) (xy 81.28 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ac53420-9d8f-4066-bdef-6ab458f09fe7")
+	)
+	(wire
+		(pts
+			(xy 71.12 74.93) (xy 71.12 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e7ea122-b692-40fc-888a-b5488f774cd3")
+	)
+	(wire
+		(pts
+			(xy 57.15 22.86) (xy 57.15 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94fe7cb6-4548-40f7-8cf7-ddb8f314ce61")
+	)
+	(wire
+		(pts
+			(xy 54.61 22.86) (xy 54.61 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b09e1ad-415d-4ea2-ad2c-b286393ae224")
+	)
+	(wire
+		(pts
+			(xy 49.53 22.86) (xy 49.53 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cab176a-e298-41b4-badc-0817f3790d4a")
+	)
+	(wire
+		(pts
+			(xy 33.02 22.86) (xy 33.02 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1143fe3-dbc4-4218-b193-6525195ba374")
+	)
+	(wire
+		(pts
+			(xy 25.4 74.93) (xy 25.4 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd744539-bbd5-4c57-b8f0-b3c4370968c3")
+	)
+	(wire
+		(pts
+			(xy 191.77 72.39) (xy 187.96 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db98e9f4-d433-4bbc-a65e-2be2b2b79773")
+	)
+	(wire
+		(pts
+			(xy 86.36 74.93) (xy 86.36 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea0a15d9-5f1c-464a-b0a9-0a8fd5e509ca")
+	)
+	(rectangle
+		(start 147.32 25.4)
+		(end 160.02 74.93)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 06e508cf-57de-4e04-ab05-5c5bf5f9197b)
+	)
+	(rectangle
+		(start 16.51 15.24)
+		(end 196.51 112.04)
+		(stroke
+			(width 0)
+			(type dot)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 29c5e26c-2d50-4887-a7b1-538f804fb5c9)
+	)
+	(rectangle
+		(start 24.13 88.9)
+		(end 72.39 106.68)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 29f025db-fc6f-4425-a5de-21a1c2fb91e0)
+	)
+	(rectangle
+		(start 21.59 86.36)
+		(end 78.74 109.22)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 67b8e63d-0050-4455-917b-28a15fd3c20f)
+	)
+	(rectangle
+		(start 21.59 25.4)
+		(end 137.16 74.93)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b90b4759-f0fd-4a1c-9e6d-63d155c8f082)
+	)
+	(rectangle
+		(start 170.18 25.4)
+		(end 187.96 74.93)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f9482136-b596-4f25-9613-4e661d847da1)
+	)
+	(text "HMI\nHCFA TP2507"
+		(exclude_from_sim no)
+		(at 50.292 96.774 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "19737cad-8ee2-4c32-ba92-b7be062b1557")
+	)
+	(text "ПЛК\nHCFA HCA8-32X32YR"
+		(exclude_from_sim no)
+		(at 79.502 49.784 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "52f802c5-85c8-4846-9676-6c892d737866")
+	)
+	(text "HCA8C-8EX8EYR"
+		(exclude_from_sim no)
+		(at 173.482 49.276 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "ae775028-c02b-417b-8c56-387418aa2bb2")
+	)
+	(text "HCA8C-CNV5V-TX2N"
+		(exclude_from_sim no)
+		(at 154.178 49.276 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "b826f405-00e4-43a8-b85b-e1c9c2d9507e")
+	)
+	(global_label "-"
+		(shape input)
+		(at 78.74 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "023369c7-1294-45d7-abde-4ecc51761d7e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.1824 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COM5"
+		(shape input)
+		(at 86.36 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "04cbad57-8930-481f-ab7f-7965ac447320")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.36 66.6834 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COM1"
+		(shape input)
+		(at 187.96 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "09171eb0-3c5e-4df5-9c3b-a918b80c83f9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 179.7134 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X1.2"
+		(shape input)
+		(at 76.2 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0eb4d390-bae3-4c96-aba5-4e9aef127aa9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 76.2 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X3.1"
+		(shape input)
+		(at 116.84 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "151cf409-7b28-4fc1-b506-0de62f52c36c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 116.84 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PE"
+		(shape input)
+		(at 157.48 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1614e498-250f-47d3-8db8-966585d8f012")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.48 69.5258 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.0"
+		(shape input)
+		(at 187.96 27.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "163d896a-5c1e-4931-8974-08d338b5193b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.2058 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.1"
+		(shape input)
+		(at 187.96 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "171e3b1d-4e90-4626-9491-78ede9e4f3e5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.3267 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "10"
+		(shape input)
+		(at 52.07 22.86 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1cb07c34-3ba2-4c04-ba39-032b1baa49d8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.07 17.4558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Netclass" "Управляющее напряжение OK"
+			(at 51.816 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.7"
+		(shape input)
+		(at 187.96 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1d62fca9-8920-4009-960b-b750039b1723")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.2058 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X1.5"
+		(shape input)
+		(at 83.82 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1dc191df-a406-4f4a-aa95-05b465a31130")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.82 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X3.6"
+		(shape input)
+		(at 129.54 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1e3e3eaa-c2d1-46e1-a50e-26e1aa806195")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.54 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X2.1"
+		(shape input)
+		(at 95.25 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1ed0d29d-c7d8-479c-a69f-bb2c2a524966")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.25 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y2.1"
+		(shape input)
+		(at 92.71 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1f7e7a9f-7954-42f7-82a7-175ea69133ff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.71 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COM6"
+		(shape input)
+		(at 133.35 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "22b9b550-41f6-48d6-b734-5d257549595b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.35 66.6834 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "L"
+		(shape input)
+		(at 25.4 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2473dc58-f7a7-46a4-a4c5-93e41b61ba15")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.4 29.4133 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SS"
+		(shape input)
+		(at 36.83 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2a7c5a61-1df7-4759-af16-6f1919abe0a4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.83 30.8042 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X2.7"
+		(shape input)
+		(at 110.49 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2c9dc8ed-7343-4fe6-8f79-7f51ae271413")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 110.49 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.1"
+		(shape input)
+		(at 187.96 30.48 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2e6fd091-e425-4f62-8436-004a332810d4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.2058 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "024"
+		(shape input)
+		(at 86.36 77.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "33930e7c-1e79-4d32-895a-9d1023c42a00")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.36 84.0837 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.4"
+		(shape input)
+		(at 187.96 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "34577cca-8133-47d2-949d-d18a80908500")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.3267 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.1"
+		(shape input)
+		(at 52.07 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "34fdae1b-d931-49d5-a6e9-6e7821a8cef8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.07 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COM2"
+		(shape input)
+		(at 40.64 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "357410c2-b1db-4be9-b729-7deab6f40303")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 40.64 66.6834 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.5"
+		(shape input)
+		(at 187.96 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "35cc15ae-59e8-4eef-836d-07e10d302409")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.2058 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y1.6"
+		(shape input)
+		(at 80.01 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "36fe05e3-4ba4-4e80-9c10-7e52727e0fc1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 80.01 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y3.7"
+		(shape input)
+		(at 129.54 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3b2c868f-a9d9-4ef6-945c-68ee687d7063")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.54 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PE"
+		(shape input)
+		(at 78.74 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3b8501bb-caff-431f-b241-ef8608bd0df0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.3358 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "24V"
+		(shape input)
+		(at 44.45 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3e6e6580-d3b6-42c1-beb7-0a14167d8663")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.45 31.8928 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.4"
+		(shape input)
+		(at 187.96 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "400f6153-6c9b-403f-a558-1c8880f89d58")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.2058 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.5"
+		(shape input)
+		(at 187.96 62.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "44f4fd54-9668-4851-be17-3829b089d33d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.3267 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X1.1"
+		(shape input)
+		(at 73.66 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "46dba503-9483-42fa-8603-a768bc9d300f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.66 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y2.2"
+		(shape input)
+		(at 95.25 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "49c086c3-5a3f-4742-9ac4-8a6eda3674b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.25 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.5"
+		(shape input)
+		(at 46.99 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4a4ef57f-a6c8-4b41-8a1b-7dc9849768f8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.99 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X1.6"
+		(shape input)
+		(at 86.36 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4b7dd92d-6318-46a6-8092-8d81e606a8f3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.36 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "-"
+		(shape input)
+		(at 153.67 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c9c0c10-86d6-4701-a379-356b4fdb07b7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.67 70.3724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y3.2"
+		(shape input)
+		(at 116.84 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4ce1248f-1bff-4310-b2c5-cd05f81abe48")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 116.84 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X3.2"
+		(shape input)
+		(at 119.38 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "50d47c77-aa7b-4952-8d50-178159a343e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X3.7"
+		(shape input)
+		(at 132.08 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "51ef9bea-58ef-401b-80e8-b7bec7695adb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 132.08 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X3.4"
+		(shape input)
+		(at 124.46 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "591abcc7-201e-408a-b3df-c1f895772ee5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 124.46 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X3.0"
+		(shape input)
+		(at 114.3 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5d07dfd0-6ce7-4b4b-9c0c-6ba8821c9e1d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.3 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N"
+		(shape input)
+		(at 33.02 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5ea59ab5-2d74-4275-b5cb-ed548f69b2f2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.02 29.7157 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PE"
+		(shape input)
+		(at 29.21 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6136cf88-771d-4867-8f2f-c04ca585ca5f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.21 30.8042 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.2"
+		(shape input)
+		(at 187.96 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6620e9bd-6315-46ed-870c-73f49c257152")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.3267 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.0"
+		(shape input)
+		(at 187.96 49.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "67710490-adca-4d78-b356-d911d3dc33b2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.3267 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y1.5"
+		(shape input)
+		(at 77.47 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "684552e4-dac6-46a1-9c58-70120f80a3a8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.47 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X2.6"
+		(shape input)
+		(at 107.95 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6b1fe378-b454-4b5c-bea6-42286e996df0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "024"
+		(shape input)
+		(at 71.12 77.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6eb2fbde-2eca-4293-bebf-b96cf41ab07d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.12 84.0837 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X1.0"
+		(shape input)
+		(at 71.12 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "70f99b93-e077-4430-abc9-b4f3245b89aa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.12 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "0V"
+		(shape input)
+		(at 81.28 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "72b1351d-cdde-4a59-a988-2d93abf440b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.5633 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y1.0"
+		(shape input)
+		(at 59.69 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "784250cb-d1f8-4d10-83af-76c47fd3d623")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 59.69 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COM4"
+		(shape input)
+		(at 71.12 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "791f4ad8-9a3c-4bb2-a527-5d3dbda7052d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.12 66.6834 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.7"
+		(shape input)
+		(at 52.07 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7daf4bb2-894b-40e5-a517-32a7c89677ac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.07 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y2.6"
+		(shape input)
+		(at 105.41 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7fc1e1df-ff28-41a1-a729-4d24335ec36d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.41 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "024"
+		(shape input)
+		(at 133.35 77.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "80e0bd8b-6515-4ee6-8d7c-e96d5491e4b2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.35 84.0837 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.2"
+		(shape input)
+		(at 54.61 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "83c90362-6ac6-429f-b3a2-83702a56c60e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.61 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.4"
+		(shape input)
+		(at 59.69 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8781a224-8d7e-4668-84ba-a0c7049595f8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 59.69 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+24VDC"
+		(shape input)
+		(at 149.86 77.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8c5eca86-4c29-4973-a290-053069a798ae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.86 88.0752 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y3.0"
+		(shape input)
+		(at 111.76 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8e37d851-7ec8-487c-ae28-3de1e07d6bdc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.76 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.5"
+		(shape input)
+		(at 62.23 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9049829a-15d0-475e-b2e2-139704925465")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+24VDC"
+		(shape input)
+		(at 81.28 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "909724d7-1e0c-47c1-9c78-6a32d82e1859")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.8852 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y2.3"
+		(shape input)
+		(at 97.79 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9293aebf-ee55-4836-b6c8-cd687ec46e5c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.79 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "0"
+		(shape input)
+		(at 36.83 22.86 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "93d75c41-bc7b-4362-ae7f-47243e2d67ad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.83 18.6653 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Netclass" "24VDC"
+			(at 36.576 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.1"
+		(shape input)
+		(at 31.75 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "947f29a1-9c74-41cb-9fa6-fdb7d46a2e3b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 31.75 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+"
+		(shape input)
+		(at 149.86 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "94f7dfc9-5d24-4c02-bb8b-41f5a5b3fb81")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.86 70.3724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "0V"
+		(shape input)
+		(at 40.64 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "957a6bdb-5c0d-42a8-88d6-de5a0f3ba185")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 40.64 30.6833 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X2.4"
+		(shape input)
+		(at 102.87 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "98078af1-8370-4a6b-9dd3-ae42b986ea1d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.87 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X3.3"
+		(shape input)
+		(at 121.92 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "998919fd-d167-481a-a4ec-8c4f32a25b26")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.92 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y1.7"
+		(shape input)
+		(at 82.55 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9a367157-827e-4fdb-bf6d-8c5a778c77cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.55 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X2.3"
+		(shape input)
+		(at 100.33 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9c98647d-4c82-4965-98bc-25684a9ba8b0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.33 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.7"
+		(shape input)
+		(at 187.96 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9daa840e-8519-43ac-8fee-b6e6885e5b0e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.3267 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.6"
+		(shape input)
+		(at 49.53 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9ea50cf1-a361-4a6a-b4ec-07660308b550")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.53 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+"
+		(shape input)
+		(at 78.74 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9f3caacb-1f45-47ba-9a90-aa40dc6502b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.1824 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.0"
+		(shape input)
+		(at 29.21 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a17f141f-739c-4e96-ad17-9bb263af292c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.21 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.2"
+		(shape input)
+		(at 187.96 33.02 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a63eb4eb-9db0-4482-abf6-d28c5d15d533")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.2058 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.6"
+		(shape input)
+		(at 64.77 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a6fb1d6f-21b5-49a8-af2a-db9902a0dc5a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.77 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "024"
+		(shape input)
+		(at 25.4 77.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a866dbe5-8d40-463c-b017-c86496c91587")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.4 84.0837 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "303"
+		(shape input)
+		(at 54.61 22.86 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "aa8b6767-92eb-40df-8b65-ff46395b3f5f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.61 17.4558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Netclass" "Сжатый воздух OK"
+			(at 54.356 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "0V"
+		(shape input)
+		(at 153.67 77.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aabe7b82-ba76-4e27-b076-d2a6ebb52ed3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.67 82.7533 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COM1"
+		(shape input)
+		(at 25.4 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ace89037-7249-4bd5-9407-e0ed93b3e174")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.4 66.6834 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y3.1"
+		(shape input)
+		(at 114.3 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae66a625-bad3-4c44-ba95-41e19988e67d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.3 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "024"
+		(shape input)
+		(at 40.64 77.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aea89784-5e70-446f-bd4c-f2b8d60c0497")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 40.64 84.0837 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y1.4"
+		(shape input)
+		(at 74.93 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "af892c78-0080-4ebf-9e2e-b46eac2fbad8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.93 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.6"
+		(shape input)
+		(at 187.96 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b34a36b6-d162-423d-98f8-b3c27c9c3f29")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.3267 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X2.2"
+		(shape input)
+		(at 97.79 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b45594c7-9965-4954-b1c6-975e9235c118")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.79 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.2"
+		(shape input)
+		(at 34.29 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b78843dd-899c-4a15-8a62-46b2fa5ddc5e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 34.29 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.3"
+		(shape input)
+		(at 57.15 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b7cae2c7-8504-42e4-bc62-0c075e69871b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 57.15 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y1.3"
+		(shape input)
+		(at 67.31 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bbc10c79-f045-422f-93cc-56798be67ee9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.31 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y3.5"
+		(shape input)
+		(at 124.46 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c3c3be8a-a279-4709-832a-fe6f9d68428e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 124.46 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y3.6"
+		(shape input)
+		(at 127 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c425e101-79b4-45e6-80e1-278460ab26a6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.3"
+		(shape input)
+		(at 36.83 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c91584c8-2564-477d-b4c8-050931e8adf8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.83 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X1.3"
+		(shape input)
+		(at 78.74 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cc49bb32-ac5b-4298-9738-7634b4b994f6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 78.74 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "N"
+		(shape input)
+		(at 33.02 22.86 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ce35c30f-e204-4b8e-90db-696d4d714ae5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.02 18.5443 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Netclass" "Корпус"
+			(at 33.02 19.304 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y2.0"
+		(shape input)
+		(at 90.17 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ce5e799b-c667-49f9-b4fb-d808334e2efc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.17 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y1.2"
+		(shape input)
+		(at 64.77 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ce9facc3-43bc-4802-9786-8ab7f09c7ecc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.77 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.0"
+		(shape input)
+		(at 49.53 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cf53fb8f-86fb-4806-99a3-92c6c8cfe7c1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.53 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y2.4"
+		(shape input)
+		(at 100.33 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d08fcb36-2ca4-4bd5-8394-bb64cc4f4e83")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.33 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12"
+		(shape input)
+		(at 49.53 22.86 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1ec2247-9e66-4532-b36d-df669fa2b330")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.53 17.4558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Netclass" "Тепловая защита OK"
+			(at 49.276 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.6"
+		(shape input)
+		(at 187.96 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d26827da-63c5-4115-887a-b7a2689cf477")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.2058 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.3"
+		(shape input)
+		(at 187.96 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d7cafd7f-f6f4-449d-9ec2-ba16431ecec5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.2058 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y3.4"
+		(shape input)
+		(at 121.92 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d8076f73-7f05-43b7-bd45-ec0ee92b913e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.92 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y1.1"
+		(shape input)
+		(at 62.23 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d9eefffe-cfc7-4947-89f7-265181639bd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.23 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X1.4"
+		(shape input)
+		(at 81.28 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dbee30e0-6d7d-4269-bc02-def0de3836d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "024"
+		(shape input)
+		(at 191.77 77.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "de1098c3-cc81-4ba6-81ed-0f02c33aef1b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 191.77 84.0837 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X2.5"
+		(shape input)
+		(at 105.41 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e062d229-4527-4d85-9ad4-6031803d0d6f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.41 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "024"
+		(shape input)
+		(at 55.88 77.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1e1e73c-ae71-42e8-8f17-983c1900ec13")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 55.88 84.0837 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X3.5"
+		(shape input)
+		(at 127 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e40f2bbb-11ce-47fc-b8fc-e0181e8647eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y3.3"
+		(shape input)
+		(at 119.38 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e8821d05-7918-49f6-bba9-20caf567dceb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.38 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X0.7"
+		(shape input)
+		(at 67.31 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ea9374ea-afc1-4324-b24b-ce33ede0883a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.31 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X2.0"
+		(shape input)
+		(at 92.71 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "eb570fd2-832f-4aaf-860c-cc884309d223")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.71 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COM3"
+		(shape input)
+		(at 55.88 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ec7ad74e-dae3-47f5-a11d-f7df210fadbc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 55.88 66.6834 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.4"
+		(shape input)
+		(at 44.45 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ec919ac2-4df9-4bdb-8ecc-10bc90062354")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.45 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "L"
+		(shape input)
+		(at 25.4 22.86 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee081e2c-9ada-4bc0-ae1a-4e8084077a0d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.4 18.8467 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Netclass" "220 VAC"
+			(at 25.146 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y2.7"
+		(shape input)
+		(at 107.95 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eec486e3-7c7f-43ce-8596-f21f91a1930f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.95 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y2.5"
+		(shape input)
+		(at 102.87 74.93 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ef18a023-c5df-43e1-9109-0f4664bc8c03")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.87 63.1758 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "265"
+		(shape input)
+		(at 57.15 22.86 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ef73009b-a9e6-425d-b0ec-1094ec02a753")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 57.15 17.4558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Netclass" "Сжатый воздух OK"
+			(at 56.896 19.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC Y0.3"
+		(shape input)
+		(at 187.96 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f12771c9-a915-4900-94d6-35d6fcaca9f3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.3267 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PLC X1.7"
+		(shape input)
+		(at 88.9 25.4 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f97b174d-29e3-4c53-ab0e-be4e4a88e34d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.9 37.1542 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COM2"
+		(shape input)
+		(at 187.96 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fc4f36db-bf38-433d-a105-4816a13bf2e9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 179.7134 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+)
